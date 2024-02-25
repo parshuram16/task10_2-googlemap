@@ -1,0 +1,91 @@
+.bg-container {
+    background-color: aliceblue;
+    padding: 200px;
+}
+
+.top-card {
+    background-color: black;
+    padding: 10px;
+
+}
+
+.menu-bar {
+    height: 40px;
+    width: 40px;
+}
+
+.top-heding {
+    font-size: 20px;
+    display: inline-block;
+    color: aliceblue;
+    padding-top: 10px;
+
+}
+
+.pn-img {
+    height: 40px;
+    width: 40px;
+    display: block;
+}
+
+.main-card {
+    background-image: url("https://img.freepik.com/free-photo/pink-blue-pushpins-showing-marking-location-map_23-2147837134.jpg?w=900&t=st=1707284709~exp=1707285309~hmac=d04ef2f7e8504c9746eb0f108a105ef837730873819c97a8768c8b3eb9b7d101");
+    height: 100vh;
+    background-size: cover;
+
+
+
+}
+
+.main-img {
+    height: 100%;
+    width: 100%;
+}
+
+.sub-images {
+    height: 120px;
+    width: 120px;
+}
+
+.main.div {
+    text-align: center;
+}
+
+.sub-heading {
+    font-size: 15px;
+    color: black;
+    font-weight: 400;
+    padding-top: 10px;
+}
+
+.img-card {
+
+    margin-left: 80px;
+    text-align: center;
+}
+
+.br {
+    border: 2px solid black;
+    background-color: black;
+}
+
+.bt {
+    background-color: rgb(53, 242, 53);
+
+}
+
+.last {
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    color: black;
+    font-weight: 400;
+}
+
+.lhed{
+    font-size: 25px;
+    color: black;
+    font-weight: 400;
+
+}
+
